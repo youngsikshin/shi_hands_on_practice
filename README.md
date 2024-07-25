@@ -45,6 +45,12 @@ results = model.val()
 results = model("https://ultralytics.com/images/bus.jpg")
 ```
 
+Dataset download
+```
+pip install gdown
+gdown https://drive.google.com/uc?id=1rvv8kgaAK-aOT-F-EhgcuorxADnDHpSB
+```
+
 ### roboflow dataset link
 
 https://universe.roboflow.com/liu-yang-yhkts/myships-qs6dm/dataset/10
