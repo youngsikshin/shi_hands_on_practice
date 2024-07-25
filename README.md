@@ -47,8 +47,11 @@ results = model("https://ultralytics.com/images/bus.jpg")
 
 Dataset download
 ```
-pip install gdown
-gdown https://drive.google.com/uc?id=1rvv8kgaAK-aOT-F-EhgcuorxADnDHpSB
+$ mkdir datasets
+$ cd datasets
+$ pip install gdown
+$ gdown https://drive.google.com/uc?id=1rvv8kgaAK-aOT-F-EhgcuorxADnDHpSB
+$ unzip ship.zip
 ```
 
 ### roboflow dataset link
