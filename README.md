@@ -23,6 +23,7 @@ $ conda activate yolov8
 
 ```
 pip install ultralytics
+pip install opencv-python
 ```
 
 examples
@@ -47,6 +48,7 @@ results = model("https://ultralytics.com/images/bus.jpg")
 
 Dataset download
 ```
+$ cd yolov8
 $ mkdir datasets
 $ cd datasets
 $ pip install gdown
