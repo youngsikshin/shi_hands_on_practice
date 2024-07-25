@@ -59,3 +59,17 @@ $ unzip ship.zip
 ### roboflow dataset link
 
 https://universe.roboflow.com/liu-yang-yhkts/myships-qs6dm/dataset/10
+
+## Dynamic Window Approach
+
+Install
+```
+pip install pygame
+conda install -c conda-forge libstdcxx-ng
+```
+
+RUN
+```
+cd dwa
+python planmove.py
+```
