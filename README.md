@@ -1,5 +1,11 @@
 # shi_hands_on_practice
 
+## Cloning the repository
+
+```
+git clone https://github.com/youngsikshin/shi_hands_on_practice.git
+```
+
 ## YOLOv8
 
 ### 1. Conda Install
